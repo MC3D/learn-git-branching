@@ -1,4 +1,4 @@
-# Learn Git Branching In Class Assignment
+# Learn Git Branching
 
 ## Requirements
 
@@ -10,7 +10,7 @@ Without editing the files (only use git branch, git rebase, etc.), make the requ
 
 2. Create a branch called exercise-2. The contents of the branch should be index.html with only the boilerplate code and the anchor tag.
 
-3. Create a branch called exercise-3. The contents of the branch should be index.html with all of the content from master, as well as a <h2> with your name below the <h1>. The commit containing your name should appear in history immediately after the commit adding the <h1>.
+3. Create a branch called exercise-3. The contents of the branch should be index.html with all of the content from master, as well as an \<h2> with your name below the \<h1>. The commit containing your name should appear in history immediately after the commit adding the \<h1>.
 
 4. Create a branch called exercise-4. The contents of the branch should be index.html with all of the content from master, except the paragraph of text should be removed from the page without being removed from the branch's history.
 
